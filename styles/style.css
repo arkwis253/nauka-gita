@@ -14,3 +14,9 @@ body {
     text-align: center;
     padding: 10px;  
 }
+
+.lyrics {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: justify;
+}
