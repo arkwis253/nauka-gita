@@ -20,4 +20,7 @@ body {
     max-width: 500px;
     margin: 0 auto;
     text-align: justify;
+    background: #fff;
+    padding: 20px;
+    border-radius: 5% 5% 0 0;
 }
