@@ -6,13 +6,14 @@
 body {
     font-size: 18px;
     margin: 0;
+    background-image: linear-gradient(135deg, #fff, #206691);
 }
 
 .song-name {
     margin: 0 auto;
     max-width: 500px;
     text-align: center;
-    padding: 10px;  
+    padding: 10px;
 }
 
 .lyrics {
